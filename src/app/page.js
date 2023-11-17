@@ -1,4 +1,3 @@
-import "./globals.css";
 const Home = () => {
   return (
     <div className="h-full flex justify-center items-center">

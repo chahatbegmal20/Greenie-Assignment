@@ -1,4 +1,5 @@
 import SidebarLink from "./components/SidebarLink";
+import "./globals.css";
 
 export const metadata = {
   title: "Next.js",
